@@ -1,0 +1,6 @@
+---
+kind: wasmer.io/App.v0
+name: APP_NAME
+package: YOUR_USERNAME/APP_NAME@VERSION
+domains:
+  - APP_NAME.tiiny.io
