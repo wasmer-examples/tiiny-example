@@ -1,6 +1,7 @@
 ---
 kind: wasmer.io/App.v0
-name: APP_NAME
+name: YOUR_APP
+owner: YOUR_USER
 package: .
 domains:
-  - APP_NAME.tiiny.io
+  - YOUR_APP.wasmer.dev
