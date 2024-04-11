@@ -5,3 +5,5 @@ owner: YOUR_USERNAME
 package: YOUR_USERNAME/APP_NAME@VERSION
 domains:
   - APP_NAME.tiiny.io
+scaling:
+  mode: single_concurrency
