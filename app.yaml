@@ -5,3 +5,5 @@ owner: YOUR_USER
 package: .
 domains:
   - YOUR_APP.wasmer.dev
+scaling:
+  mode: single_concurrency
