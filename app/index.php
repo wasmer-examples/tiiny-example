@@ -1,3 +1,4 @@
 <?php
-echo "My awesome app";
+echo "My awesome (tiiny) last :)";
 
+var_dump($_ENV);

@@ -1,11 +1,3 @@
-[package]
-name = "YOUR_USERNAME/APP_NAME"
-version = "0.2.4"
-description = "Tiiny demo"
-license = "MIT OR Apache-2.0"
-entrypoint = "run"
-private = true
-
 [dependencies]
 "php/php" = "=8.0.10"
 
