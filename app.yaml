@@ -1,9 +1,8 @@
----
 kind: wasmer.io/App.v0
-name: YOUR_APP
+name: APP_NAME
 owner: YOUR_USER
 package: .
 domains:
-  - YOUR_APP.wasmer.dev
+- APP_NAME.tiiny.io
 scaling:
   mode: single_concurrency
