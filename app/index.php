@@ -1,4 +1,4 @@
 <?php
-echo "My awesome (tiiny) last :)";
+echo "Tiiny example <br />";
 
 var_dump($_ENV);
